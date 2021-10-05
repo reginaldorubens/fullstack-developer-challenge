@@ -30,7 +30,7 @@ ENTÃO a lista de clientes é filtrada com base no texto que digitei no campo de
 ## Instruções de execução 
 
 * Fazer o clone deste repositório
-* Na pasta do projeto, executar as instruções "docker-compose build" e "docker-compose build
+* Na pasta do projeto, executar as instruções "docker-compose build" e "docker-compose up"
 * No navegador de internet, acessar http://localhost:8080
 
 ### Observações
